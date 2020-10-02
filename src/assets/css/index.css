@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Red Hat Display";
+  src: url("../font/redhead/RedHatDisplay-Regular.woff2") format("woff2"),
+    url("../font/redhead/RedHatDisplay-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Red Hat Display";
+  src: url("../font/redhead/RedHatDisplay-Italic.woff2") format("woff2"),
+    url("../font/redhead/RedHatDisplay-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Red Hat Display";
+  src: url("../font/redhead/RedHatDisplay-Medium.woff2") format("woff2"),
+    url("../font/redhead/RedHatDisplay-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
